@@ -1,0 +1,17 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+  {
+    "key": "shift+cmd+b",
+    "command": "extension.openWithDefault",
+    "when": "editorTextFocus && editorLangId == 'html'"
+  },
+  {
+    "key": "cmd+k d",
+    "command": "-extension.openWithDefault",
+    "when": "editorTextFocus && editorLangId == 'html'"
+  },
+  {
+    "key": "shift+cmd+c",
+    "command": "editor.action.clipboardCopyWithSyntaxHighlightingAction"
+  }
+]

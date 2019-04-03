@@ -1,0 +1,15 @@
+{
+    "window.zoomLevel": 1,
+    "editor.renderIndentGuides": false,
+    "editor.wordWrap": "on",
+    "trailing-spaces.trimOnSave": true,
+    "editor.tabSize": 2,
+    "workbench.colorTheme": "One Dark Pro",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "gitlens.advanced.messages": {
+        "suppressLineUncommittedWarning": true,
+        "suppressNoRepositoryWarning": true,
+        "suppressShowKeyBindingsNotice": true
+    },
+    "gitlens.keymap": "alternate",
+}
